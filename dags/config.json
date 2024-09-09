@@ -1,0 +1,8 @@
+{
+    "database": {
+      "url": "your_database_url",
+      "username": "your_username",
+      "password": "your_password"
+    }
+  }
+  
